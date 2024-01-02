@@ -3,6 +3,8 @@ import "@styles/global.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
+export const dynamic = 'force-dynamic'
+
 export const metadata = {
   title: "PromptPix",
   description: "Share and Discover AI Image Prompts",
